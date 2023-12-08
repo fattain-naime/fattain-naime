@@ -32,4 +32,5 @@ Outside of work, I am an avid reader and enjoy staying up-to-date on the latest 
 If you're looking for a dynamic, driven computer engineer with a passion for entrepreneurship, don't hesitate to reach out and connect with me. I'm always open to discussing new opportunities and ideas. Make the world easier.
 
 I am excited to share my skills and experience with others, and I hope to connect with like-minded individuals who are passionate about technology and entrepreneurship. Thank you for visiting my profile.
+
 ----
