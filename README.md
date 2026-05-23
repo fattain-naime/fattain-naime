@@ -1,5 +1,6 @@
+<!-- Header Wave -->
 <p align="center">
-  <img src="assets/banner.png" alt="Fattain Naime — Founder · Engineer · Security Researcher" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Fattain%20Naime&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Founder%20·%20Engineer%20·%20Security%20Researcher&descSize=18&descColor=00d4ff&descAlignY=55&animation=fadeIn" width="100%" alt="Header" />
 </p>
 
 <p align="center">
@@ -19,7 +20,7 @@
 <h1 align="center">Hey there 👋 I'm Fattain Naime</h1>
 
 <p align="center">
-  <a href="https://iamnaime.info.bd"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Founder+%26+CEO+%40+Builder+Hall;Full+Stack+Engineer+%7C+Security+Researcher;Building+Scalable+Tech+Ecosystems+🚀" alt="Typing SVG" /></a>
+  <a href="https://iamnaime.info.bd"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=600&height=35&lines=Founder+%26+CEO+%40+Builder+Hall;Full+Stack+Engineer+%7C+Security+Researcher;Building+Scalable+Tech+Ecosystems+%F0%9F%9A%80" alt="Typing SVG" /></a>
 </p>
 
 <br />
@@ -28,7 +29,7 @@
 
 I build **scalable tech ecosystems**, not just apps.
 
-I'm the Founder & CEO of **[Builder Hall Ltd.](https://builderhall.com)**, a software development company based in Dhaka, Bangladesh — and the architect behind multiple digital ventures reshaping commerce, payments, and the freelance economy in South Asia.
+I'm the Founder & CEO of **[Builder Hall Ltd.](https://github.com/builderhall)**, a software development company based in Dhaka, Bangladesh — and the architect behind multiple digital ventures reshaping commerce, payments, and the freelance economy in South Asia.
 
 With deep roots in **full-stack engineering**, **cybersecurity research**, and **product thinking**, I operate at the intersection of code, security, and business — turning complex problems into elegant, production-grade systems.
 
@@ -45,12 +46,26 @@ With deep roots in **full-stack engineering**, **cybersecurity research**, and *
 
 ## 📈 Impact & Milestones
 
-<p align="center">
-  <img src="https://img.shields.io/badge/2000+-Clients_Served-00d4ff?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/2500+-Projects_Delivered-00e676?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/1000+-Platform_Users-a855f7?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Featured-In_Media-f59e0b?style=for-the-badge&labelColor=0d1117" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <h3>2000+</h3>
+      <p>🤝 Clients Served</p>
+    </td>
+    <td align="center" width="200">
+      <h3>2500+</h3>
+      <p>🚀 Projects Delivered</p>
+    </td>
+    <td align="center" width="200">
+      <h3>1000+</h3>
+      <p>👥 Platform Users</p>
+    </td>
+    <td align="center" width="200">
+      <h3>📰</h3>
+      <p>Featured In Media</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -58,12 +73,13 @@ With deep roots in **full-stack engineering**, **cybersecurity research**, and *
 
 | Venture | Description |
 |---------|-------------|
-| **[Builder Hall](https://builderhall.com)** · [GitHub](https://github.com/builderhall) | Full-service software company delivering custom solutions — from mobile apps to enterprise platforms |
-| **[GigLovin](https://giglovin.com)** | Scam-free freelance marketplace with escrow-backed payments, built on trust & transparency |
-| **[OwnPay](https://ownpay.org)** · [GitHub](https://github.com/own-pay) | Self-hosted, open-source, plugin-based payment automation platform for founders |
-| **[SMS Hall](https://smshall.com)** | Bulk SMS & marketing automation platform with API/webhook integrations |
-| **[Shopika](https://shopika.com.bd)** | E-commerce platform tailored for Bangladesh's digital commerce ecosystem |
-| **[BASH](https://bashub.org)** | Startup ecosystem initiative focused on mentorship, networking & community building |
+| <img src="https://avatars.githubusercontent.com/u/101276209?s=64" width="18" height="18" align="middle" alt="Builder Hall Logo" /> **[Builder Hall](https://builderhall.com)** · [GitHub](https://github.com/builderhall) | Full-service software company delivering custom solutions — from mobile apps to enterprise platforms |
+| <img src="https://giglovin.com/assets/uploads/media-uploader/fevicon1718003615.svg" width="18" height="18" align="middle" alt="GigLovin Logo" /> **[GigLovin](https://giglovin.com)** | Scam-free freelance marketplace with escrow-backed payments, built on trust & transparency |
+| <img src="https://avatars.githubusercontent.com/u/275533731?s=64" width="18" height="18" align="middle" alt="OwnPay Logo" /> **[OwnPay](https://ownpay.org)** · [GitHub](https://github.com/own-pay) | Self-hosted, open-source, plugin-based payment automation platform for founders |
+| <img src="https://smshall.com/favicon-32x32.png" width="18" height="18" align="middle" alt="SMS Hall Logo" /> **[SMS Hall](https://smshall.com)** | Bulk SMS & marketing automation platform with API/webhook integrations |
+| <img src="https://shopika.com.bd/storage/app/public/company/2025-04-09-67f56fe411755.webp" width="18" height="18" align="middle" alt="Shopika Logo" /> **[Shopika](https://shopika.com.bd)** | E-commerce platform tailored for Bangladesh's digital commerce ecosystem |
+| <img src="https://www.google.com/s2/favicons?domain=bashub.org&sz=64" width="18" height="18" align="middle" alt="BASH Logo" /> **[BASH](https://bashub.org)** | Startup ecosystem initiative focused on mentorship, networking & community building |
+
 
 ---
 
@@ -91,39 +107,34 @@ Independent security research focused on building resilient, hardened systems.
 
 ## ⚡ Tech Stack
 
-<h4 align="center">Languages</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,python,js,laravel,nodejs,react,flutter,mysql,postgres,mongodb,docker,linux,nginx,aws&theme=dark&perline=7" alt="Tech Stack" />
+  </a>
 </p>
 
-<h4 align="center">Backend & Frameworks</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-</p>
-
-<h4 align="center">Frontend & Mobile</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-</p>
-
-<h4 align="center">Databases</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-<h4 align="center">DevOps & Infrastructure</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</p>
+<table align="center">
+  <tr>
+    <td><b>Languages</b></td>
+    <td>PHP · Python · JavaScript</td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>Laravel · Node.js</td>
+  </tr>
+  <tr>
+    <td><b>Frontend & Mobile</b></td>
+    <td>React · Flutter</td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>MySQL · PostgreSQL · MongoDB</td>
+  </tr>
+  <tr>
+    <td><b>DevOps</b></td>
+    <td>Docker · Linux · Nginx · AWS</td>
+  </tr>
+</table>
 
 ---
 
@@ -141,16 +152,30 @@ fun_fact: "I break things to understand how to build them better 🔓"
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=fattain-naime&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00e676&text_color=c9d1d9" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=fattain-naime&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=00e676&currStreakLabel=00d4ff" alt="GitHub Streak" />
+  <a href="https://github.com/fattain-naime">
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=fattain-naime&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=00e676&currStreakLabel=00d4ff" alt="GitHub Streak" />
+  </a>
+  <a href="https://github.com/fattain-naime">
+    <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fattain-naime&theme=github_dark" alt="Profile Details" />
+  </a>
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fattain-naime&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+  <a href="https://github.com/fattain-naime">
+    <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fattain-naime&theme=github_dark" alt="Top Languages by Repo" />
+  </a>
+  <a href="https://github.com/fattain-naime">
+    <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fattain-naime&theme=github_dark" alt="Top Languages by Commit" />
+  </a>
+  <a href="https://github.com/fattain-naime">
+    <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fattain-naime&theme=github_dark" alt="Stats" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fattain-naime&bg_color=0d1117&color=00d4ff&line=00e676&point=ffffff&area_color=00d4ff&area=true&hide_border=true" alt="Contribution Graph" width="95%" />
+  <a href="https://github.com/fattain-naime">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fattain-naime&theme=github_dark&utcOffset=6" alt="Commits per Hour" width="48%" />
+  </a>
 </p>
 
 ---
