@@ -1,6 +1,6 @@
 <!-- Header Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Fattain%20Naime&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Founder%20·%20Engineer%20·%20Security%20Researcher&descSize=18&descColor=00d4ff&descAlignY=55&animation=fadeIn" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Fattain%20Naime&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Founder%20·%20Engineer%20·%20Security%20Researcher&descSize=18&descColor=00d4ff&descAlignY=55&animation=fadeIn" width="100%" alt="Fattain Naime — Founder · Engineer · Security Researcher" />
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
 
 I build **scalable tech ecosystems**, not just apps.
 
-I'm the Founder & CEO of **[Builder Hall Ltd.](https://github.com/builderhall)**, a software development company based in Dhaka, Bangladesh — and the architect behind multiple digital ventures reshaping commerce, payments, and the freelance economy in South Asia.
+I'm the Founder & CEO of **[Builder Hall Ltd.](https://builderhall.com)**, a software development company based in Dhaka, Bangladesh — and the architect behind multiple digital ventures reshaping commerce, payments, and the freelance economy in South Asia.
 
 With deep roots in **full-stack engineering**, **cybersecurity research**, and **product thinking**, I operate at the intersection of code, security, and business — turning complex problems into elegant, production-grade systems.
 
@@ -72,20 +72,19 @@ With deep roots in **full-stack engineering**, **cybersecurity research**, and *
 ## 🏗️ Ventures & Initiatives
 
 | Venture | Description |
-|---------|-------------|
-| <img src="https://avatars.githubusercontent.com/u/101276209?s=64" width="18" height="18" align="middle" alt="Builder Hall Logo" /> **[Builder Hall](https://builderhall.com)** · [GitHub](https://github.com/builderhall) | Full-service software company delivering custom solutions — from mobile apps to enterprise platforms |
-| <img src="https://giglovin.com/assets/uploads/media-uploader/fevicon1718003615.svg" width="18" height="18" align="middle" alt="GigLovin Logo" /> **[GigLovin](https://giglovin.com)** | Scam-free freelance marketplace with escrow-backed payments, built on trust & transparency |
-| <img src="https://avatars.githubusercontent.com/u/275533731?s=64" width="18" height="18" align="middle" alt="OwnPay Logo" /> **[OwnPay](https://ownpay.org)** · [GitHub](https://github.com/own-pay) | Self-hosted, open-source, plugin-based payment automation platform for founders |
-| <img src="https://smshall.com/favicon-32x32.png" width="18" height="18" align="middle" alt="SMS Hall Logo" /> **[SMS Hall](https://smshall.com)** | Bulk SMS & marketing automation platform with API/webhook integrations |
-| <img src="https://shopika.com.bd/storage/app/public/company/2025-04-09-67f56fe411755.webp" width="18" height="18" align="middle" alt="Shopika Logo" /> **[Shopika](https://shopika.com.bd)** | E-commerce platform tailored for Bangladesh's digital commerce ecosystem |
-| <img src="https://www.google.com/s2/favicons?domain=bashub.org&sz=64" width="18" height="18" align="middle" alt="BASH Logo" /> **[BASH](https://bashub.org)** | Startup ecosystem initiative focused on mentorship, networking & community building |
-
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/101276209?s=64" width="18" height="18" align="middle" alt="Builder Hall logo" /> **[Builder Hall](https://builderhall.com)** · [GitHub](https://github.com/builderhall) | Full-service software company delivering custom solutions — from mobile apps to enterprise platforms |
+| <img src="https://giglovin.com/assets/uploads/media-uploader/fevicon1718003615.svg" width="18" height="18" align="middle" alt="GigLovin logo" /> **[GigLovin](https://giglovin.com)** | Scam-free freelance marketplace with escrow-backed payments, built on trust & transparency |
+| <img src="https://avatars.githubusercontent.com/u/275533731?s=64" width="18" height="18" align="middle" alt="OwnPay logo" /> **[OwnPay](https://ownpay.org)** · [GitHub](https://github.com/own-pay) | Self-hosted, open-source, plugin-based payment automation platform for founders |
+| 📨 **[SMS Hall](https://smshall.com)** | Bulk SMS & marketing automation platform with API/webhook integrations |
+| <img src="https://shopika.com.bd/storage/app/public/company/2025-04-09-67f56fe411755.webp" width="18" height="18" align="middle" alt="Shopika logo" /> **[Shopika](https://shopika.com.bd)** | E-commerce platform tailored for Bangladesh's digital commerce ecosystem |
+| 🚀 **BASH** | Startup ecosystem initiative focused on mentorship, networking & community building |
 
 ---
 
 ## 🛡️ Security Lab — Lab 0x4E
 
-```
+```text
   ██▓      ▄▄▄       ▄▄▄▄      ▒█████  ▒██   ██▒ ██  ██▓▓█████ 
  ▓██▒     ▒████▄    ▓█████▄   ▒██▒  ██▒▒▒ █ █ ▒░ ██ ▓██▒▓█   ▀ 
  ▒██░     ▒██  ▀█▄  ▒██▒ ▄██  ▒██░  ██▒░░  █   ░▓██ ▒██░▒███   
@@ -153,7 +152,7 @@ fun_fact: "I break things to understand how to build them better 🔓"
 
 <p align="center">
   <a href="https://github.com/fattain-naime">
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=fattain-naime&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=00e676&currStreakLabel=00d4ff" alt="GitHub Streak" />
+    <img width="48%" src="https://streak-stats.demolab.com/?user=fattain-naime&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=00e676&currStreakLabel=00d4ff" alt="GitHub Streak" />
   </a>
   <a href="https://github.com/fattain-naime">
     <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fattain-naime&theme=github_dark" alt="Profile Details" />
@@ -184,6 +183,30 @@ fun_fact: "I break things to understand how to build them better 🔓"
 
 <table>
   <tr>
+    <td>🏦</td>
+    <td><strong><a href="https://github.com/fattain-naime/OwnPay">OwnPay</a></strong> — Self-hosted, open-source payment gateway for managing brands, gateways, and transactions on your own infrastructure</td>
+  </tr>
+  <tr>
+    <td>🖥️</td>
+    <td><strong><a href="https://github.com/fattain-naime/js-web-terminal">JS Web Terminal</a></strong> — Web terminal with login and command execution, enabling terminal access in restricted environments</td>
+  </tr>
+  <tr>
+    <td>☁️</td>
+    <td><strong><a href="https://github.com/fattain-naime/rcloneCWP">rcloneCWP</a></strong> — rclone module for the CWP control panel</td>
+  </tr>
+  <tr>
+    <td>🧰</td>
+    <td><strong><a href="https://github.com/fattain-naime/local-dev-hub">Local Dev Hub</a></strong> — Single-file localhost developer dashboard replacing the default Laragon and XAMPP index pages</td>
+  </tr>
+  <tr>
+    <td>🕸️</td>
+    <td><strong><a href="https://github.com/fattain-naime/rk-data-scraping">RK Data Scraping</a></strong> — State-aware e-commerce data mining bot for large-scale collection</td>
+  </tr>
+  <tr>
+    <td>🔄</td>
+    <td><strong><a href="https://github.com/fattain-naime/automatic-update-via-github">Automatic Update via GitHub</a></strong> — Production-ready PHP updater that pulls GitHub releases with ZIP backups and safe file replacement</td>
+  </tr>
+  <tr>
     <td>💳</td>
     <td><strong>bKash Payment Integrations</strong> — WooCommerce & Laravel plugins for bKash payment gateway</td>
   </tr>
@@ -206,24 +229,24 @@ fun_fact: "I break things to understand how to build them better 🔓"
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://iamnaime.info.bd"><img src="https://img.shields.io/badge/Website-iamnaime.info.bd-0d1117?style=flat-square&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/fattain-naime"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/Fattain_Naime"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
-  <a href="https://www.facebook.com/fattain.naime"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
-  <a href="https://www.instagram.com/fattain_naime"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-  <a href="https://t.me/fattainnaime"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></a>
-  <a href="https://discord.com/users/fattain-naime"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
-  <a href="mailto:iamnaime@builderhall.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://iamnaime.info.bd"><img src="https://img.shields.io/badge/Website-iamnaime.info.bd-0d1117?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/fattain-naime"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/Fattain_Naime"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X (Twitter)" /></a>
+  <a href="https://www.facebook.com/fattain.naime"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.instagram.com/fattain_naime"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://t.me/fattainnaime"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://discord.com/users/fattain-naime"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="mailto:iamnaime@builderhall.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
-  <a href="https://iamnaime.info.bd"><img src="https://img.shields.io/badge/📝_Read_My_Blog-iamnaime.info.bd-00d4ff?style=for-the-badge&labelColor=0d1117" /></a>
+  <a href="https://iamnaime.info.bd"><img src="https://img.shields.io/badge/📝_Read_My_Blog-iamnaime.info.bd-00d4ff?style=for-the-badge&labelColor=0d1117" alt="Read my blog" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%" alt="" />
 </p>
 
 <p align="center">
