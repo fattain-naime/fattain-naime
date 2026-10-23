@@ -9,7 +9,7 @@
 
 ## Executive summary
 
-This repository is a GitHub profile README. At audit start it contained one 233-line `README.md` and a single asset, with no application code, build, or test surface. Its structure and rendering are sound, all GitHub-hosted identities resolve, and no secrets are present in any revision. The audit found two high-impact issues (a mislabeled orphaned image and dead venture links/icons), two medium issues (a deprecated stats host and missing image alt text), and several low-priority hygiene gaps. Six findings were addressed directly in this branch (A2 only partially); the remaining items require owner decisions or external service changes and are documented below.
+This repository is a GitHub profile README. At audit start it contained one 233-line `README.md` and a single asset, with no application code, build, or test surface. Its structure and rendering are sound, all GitHub-hosted identities resolve, and no secrets are present in any revision. The audit found two high-impact issues (a mislabeled orphaned image and dead venture links/icons), four medium issues (a legacy stats host, missing image alt text, unverifiable primary websites, and unlinked or unmatched open-source claims), and several low-priority hygiene gaps. Six findings were addressed directly in this branch (A2 only partially); the remaining items require owner decisions or external service changes and are documented below.
 
 ## Findings
 
