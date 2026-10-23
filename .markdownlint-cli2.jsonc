@@ -1,0 +1,10 @@
+// markdownlint-cli2 configuration.
+// This is a GitHub profile README: inline HTML, wide badge rows and a
+// non-heading first line are intentional and required for rendering.
+{
+  "config": {
+    "MD013": false,
+    "MD033": false,
+    "MD041": false
+  }
+}
