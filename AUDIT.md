@@ -79,9 +79,9 @@ Action: both references now use `https://builderhall.com`.
 
 Recommendation: verify from a neutral uptime monitor and add alerting for the site used in the README header.
 
-### A8 — Medium — Open Source Highlights are unlinked and partly unmatched (open)
+### A8 — Medium — Open Source Highlights were unlinked and partly unmatched (partially resolved)
 
-The account has 62 public repositories, but the four claims are not linked and only one has an obvious match:
+Follow-up: `OwnPay` and five linked repositories (`js-web-terminal`, `rcloneCWP`, `local-dev-hub`, `rk-data-scraping`, `automatic-update-via-github`) were added to the section after the audit. The four original claims below are still unlinked and only one has an obvious match:
 
 | Claim | Matching public repository | Recommendation |
 | --- | --- | --- |
@@ -143,6 +143,7 @@ There are no workflows. The README embeds images from several third-party servic
 4. Added alt text to every image and made the decorative footer `alt=""`.
 5. Unified the Builder Hall link on `https://builderhall.com`.
 6. Fixed MD012, MD040 and MD060, and added `.markdownlint-cli2.jsonc`.
+7. Added OwnPay and five linked repositories to Open Source Highlights (follow-up).
 
 Verification:
 
@@ -155,6 +156,6 @@ git ls-files                      # README.md, AUDIT.md, .markdownlint-cli2.json
 
 1. Provide a working BASH URL or remove the row; repair or replace the SMS Hall link.
 2. Add uptime monitoring for the four websites that timed out during this audit.
-3. Link each Open Source Highlight to a public repository, or rewrite the list to match what is public.
+3. Link the four original Open Source Highlights to public repositories, or rewrite those rows to match what is public.
 4. Update the repository description, homepage and topics; decide whether a content license is wanted.
 5. Optionally add a CI workflow that runs `markdownlint-cli2` on push and pull request.

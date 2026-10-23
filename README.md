@@ -183,6 +183,30 @@ fun_fact: "I break things to understand how to build them better 🔓"
 
 <table>
   <tr>
+    <td>🏦</td>
+    <td><strong><a href="https://github.com/fattain-naime/OwnPay">OwnPay</a></strong> — Self-hosted, open-source payment gateway for managing brands, gateways, and transactions on your own infrastructure</td>
+  </tr>
+  <tr>
+    <td>🖥️</td>
+    <td><strong><a href="https://github.com/fattain-naime/js-web-terminal">JS Web Terminal</a></strong> — Web terminal with login and command execution, enabling terminal access in restricted environments</td>
+  </tr>
+  <tr>
+    <td>☁️</td>
+    <td><strong><a href="https://github.com/fattain-naime/rcloneCWP">rcloneCWP</a></strong> — rclone module for the CWP control panel</td>
+  </tr>
+  <tr>
+    <td>🧰</td>
+    <td><strong><a href="https://github.com/fattain-naime/local-dev-hub">Local Dev Hub</a></strong> — Single-file localhost developer dashboard replacing the default Laragon and XAMPP index pages</td>
+  </tr>
+  <tr>
+    <td>🕸️</td>
+    <td><strong><a href="https://github.com/fattain-naime/rk-data-scraping">RK Data Scraping</a></strong> — State-aware e-commerce data mining bot for large-scale collection</td>
+  </tr>
+  <tr>
+    <td>🔄</td>
+    <td><strong><a href="https://github.com/fattain-naime/automatic-update-via-github">Automatic Update via GitHub</a></strong> — Production-ready PHP updater that pulls GitHub releases with ZIP backups and safe file replacement</td>
+  </tr>
+  <tr>
     <td>💳</td>
     <td><strong>bKash Payment Integrations</strong> — WooCommerce & Laravel plugins for bKash payment gateway</td>
   </tr>
