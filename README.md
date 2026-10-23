@@ -184,7 +184,7 @@ fun_fact: "I break things to understand how to build them better 🔓"
 <table>
   <tr>
     <td>🏦</td>
-    <td><strong><a href="https://github.com/fattain-naime/OwnPay">OwnPay</a></strong> — Self-hosted, open-source payment gateway for managing brands, gateways, and transactions on your own infrastructure</td>
+    <td><strong><a href="https://github.com/own-pay/OwnPay">OwnPay</a></strong> — Self-hosted, open-source payment gateway for managing brands, gateways, and transactions on your own infrastructure</td>
   </tr>
   <tr>
     <td>🖥️</td>
